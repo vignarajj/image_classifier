@@ -13,7 +13,8 @@ Here I make four different image classification:
 
 Follow the instructions as per tflite plugin. All tflite model inside the assets folder.
 
-##Screenshots:
+## Screenshots
+
 <img src="https://github.com/vignarajj/image_classifier/blob/master/screenshots/Screenshot_1604605389.png?raw=true" width="480" height="800"/>
 
 <img src="https://github.com/vignarajj/image_classifier/blob/master/screenshots/Screenshot_1604605394.png?raw=true" width="480" height="800"/>
